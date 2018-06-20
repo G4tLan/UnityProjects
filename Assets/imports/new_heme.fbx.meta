@@ -1,0 +1,1556 @@
+fileFormatVersion: 2
+guid: 0c8df68e4d84bb1439c460abe01d3e33
+timeCreated: 1516535440
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ankle.l
+    100002: ankle.r
+    100004: Armature
+    100006: hand.l
+    100008: hand.r
+    100010: head
+    100012: head_end
+    100014: heme
+    100016: lowerArm.l
+    100018: lowerArm.r
+    100020: lowerIndex.l
+    100022: lowerIndex.r
+    100024: lowerLeg.l
+    100026: lowerLeg.r
+    100028: lowerMiddleFinger.l
+    100030: lowerMiddleFinger.r
+    100032: lowerPinky.l
+    100034: lowerPinky.r
+    100036: lowerRingFinger.l
+    100038: lowerRingFinger.r
+    100040: lowerThumb.l
+    100042: lowerThumb.r
+    100044: neck
+    100046: //RootNode
+    100048: root
+    100050: toes.l
+    100052: toes.l_end
+    100054: toes.r
+    100056: toes.r_end
+    100058: torso
+    100060: upperArm.l
+    100062: upperArm.r
+    100064: upperIndex.l
+    100066: upperIndex.l_end
+    100068: upperIndex.r
+    100070: upperIndex.r_end
+    100072: upperLeg.l
+    100074: upperLeg.r
+    100076: upperMiddleFinger.l
+    100078: upperMiddleFinger.l_end
+    100080: upperMiddleFinger.r
+    100082: upperMiddleFinger.r_end
+    100084: upperPinky.l
+    100086: upperPinky.l_end
+    100088: upperPinky.r
+    100090: upperPinky.r_end
+    100092: upperRingFinger.l
+    100094: upperRingFinger.l_end
+    100096: upperRingFinger.r
+    100098: upperRingFinger.r_end
+    100100: upperThumb.l
+    100102: upperThumb.l_end
+    100104: upperThumb.r
+    100106: upperThumb.r_end
+    400000: ankle.l
+    400002: ankle.r
+    400004: Armature
+    400006: hand.l
+    400008: hand.r
+    400010: head
+    400012: head_end
+    400014: heme
+    400016: lowerArm.l
+    400018: lowerArm.r
+    400020: lowerIndex.l
+    400022: lowerIndex.r
+    400024: lowerLeg.l
+    400026: lowerLeg.r
+    400028: lowerMiddleFinger.l
+    400030: lowerMiddleFinger.r
+    400032: lowerPinky.l
+    400034: lowerPinky.r
+    400036: lowerRingFinger.l
+    400038: lowerRingFinger.r
+    400040: lowerThumb.l
+    400042: lowerThumb.r
+    400044: neck
+    400046: //RootNode
+    400048: root
+    400050: toes.l
+    400052: toes.l_end
+    400054: toes.r
+    400056: toes.r_end
+    400058: torso
+    400060: upperArm.l
+    400062: upperArm.r
+    400064: upperIndex.l
+    400066: upperIndex.l_end
+    400068: upperIndex.r
+    400070: upperIndex.r_end
+    400072: upperLeg.l
+    400074: upperLeg.r
+    400076: upperMiddleFinger.l
+    400078: upperMiddleFinger.l_end
+    400080: upperMiddleFinger.r
+    400082: upperMiddleFinger.r_end
+    400084: upperPinky.l
+    400086: upperPinky.l_end
+    400088: upperPinky.r
+    400090: upperPinky.r_end
+    400092: upperRingFinger.l
+    400094: upperRingFinger.l_end
+    400096: upperRingFinger.r
+    400098: upperRingFinger.r_end
+    400100: upperThumb.l
+    400102: upperThumb.l_end
+    400104: upperThumb.r
+    400106: upperThumb.r_end
+    4300000: heme
+    7400000: heme_idle
+    7400002: heme_right
+    7400004: heme_right_idle
+    7400006: heme_right_to_top
+    7400008: heme_left
+    7400010: heme_left_idle
+    7400012: heme_left_to_top
+    7400014: heme_down
+    7400016: heme_up
+    7400018: heme_next_level
+    9500000: //RootNode
+    13700000: heme
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: heme_idle
+      takeName: Armature|ArmatureAction.001
+      firstFrame: 5
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/torso
+        weight: 1
+      - path: Armature/root/torso/neck
+        weight: 1
+      - path: Armature/root/torso/neck/head
+        weight: 1
+      - path: Armature/root/torso/neck/head/head_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l/upperIndex.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l/upperIndex.l/upperIndex.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l/upperMiddleFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l/upperMiddleFinger.l/upperMiddleFinger.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l/upperPinky.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l/upperPinky.l/upperPinky.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l/upperRingFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l/upperRingFinger.l/upperRingFinger.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l/upperThumb.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l/upperThumb.l/upperThumb.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r/upperIndex.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r/upperIndex.r/upperIndex.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r/upperMiddleFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r/upperMiddleFinger.r/upperMiddleFinger.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r/upperPinky.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r/upperPinky.r/upperPinky.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r/upperRingFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r/upperRingFinger.r/upperRingFinger.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r/upperThumb.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r/upperThumb.r/upperThumb.r_end
+        weight: 1
+      - path: Armature/root/upperLeg.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l/toes.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l/toes.l/toes.l_end
+        weight: 1
+      - path: Armature/root/upperLeg.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r/toes.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r/toes.r/toes.r_end
+        weight: 1
+      - path: heme
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: heme_right
+      takeName: Armature|ArmatureAction.001
+      firstFrame: 30
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/torso
+        weight: 1
+      - path: Armature/root/torso/neck
+        weight: 1
+      - path: Armature/root/torso/neck/head
+        weight: 1
+      - path: Armature/root/torso/neck/head/head_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l/upperIndex.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l/upperIndex.l/upperIndex.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l/upperMiddleFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l/upperMiddleFinger.l/upperMiddleFinger.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l/upperPinky.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l/upperPinky.l/upperPinky.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l/upperRingFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l/upperRingFinger.l/upperRingFinger.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l/upperThumb.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l/upperThumb.l/upperThumb.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r/upperIndex.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r/upperIndex.r/upperIndex.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r/upperMiddleFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r/upperMiddleFinger.r/upperMiddleFinger.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r/upperPinky.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r/upperPinky.r/upperPinky.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r/upperRingFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r/upperRingFinger.r/upperRingFinger.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r/upperThumb.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r/upperThumb.r/upperThumb.r_end
+        weight: 1
+      - path: Armature/root/upperLeg.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l/toes.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l/toes.l/toes.l_end
+        weight: 1
+      - path: Armature/root/upperLeg.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r/toes.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r/toes.r/toes.r_end
+        weight: 1
+      - path: heme
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: heme_right_idle
+      takeName: Armature|ArmatureAction.001
+      firstFrame: 51
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/torso
+        weight: 1
+      - path: Armature/root/torso/neck
+        weight: 1
+      - path: Armature/root/torso/neck/head
+        weight: 1
+      - path: Armature/root/torso/neck/head/head_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l/upperIndex.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l/upperIndex.l/upperIndex.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l/upperMiddleFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l/upperMiddleFinger.l/upperMiddleFinger.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l/upperPinky.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l/upperPinky.l/upperPinky.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l/upperRingFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l/upperRingFinger.l/upperRingFinger.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l/upperThumb.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l/upperThumb.l/upperThumb.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r/upperIndex.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r/upperIndex.r/upperIndex.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r/upperMiddleFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r/upperMiddleFinger.r/upperMiddleFinger.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r/upperPinky.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r/upperPinky.r/upperPinky.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r/upperRingFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r/upperRingFinger.r/upperRingFinger.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r/upperThumb.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r/upperThumb.r/upperThumb.r_end
+        weight: 1
+      - path: Armature/root/upperLeg.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l/toes.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l/toes.l/toes.l_end
+        weight: 1
+      - path: Armature/root/upperLeg.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r/toes.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r/toes.r/toes.r_end
+        weight: 1
+      - path: heme
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: heme_right_to_top
+      takeName: Armature|ArmatureAction.001
+      firstFrame: 61
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/torso
+        weight: 1
+      - path: Armature/root/torso/neck
+        weight: 1
+      - path: Armature/root/torso/neck/head
+        weight: 1
+      - path: Armature/root/torso/neck/head/head_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l/upperIndex.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l/upperIndex.l/upperIndex.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l/upperMiddleFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l/upperMiddleFinger.l/upperMiddleFinger.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l/upperPinky.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l/upperPinky.l/upperPinky.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l/upperRingFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l/upperRingFinger.l/upperRingFinger.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l/upperThumb.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l/upperThumb.l/upperThumb.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r/upperIndex.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r/upperIndex.r/upperIndex.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r/upperMiddleFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r/upperMiddleFinger.r/upperMiddleFinger.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r/upperPinky.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r/upperPinky.r/upperPinky.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r/upperRingFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r/upperRingFinger.r/upperRingFinger.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r/upperThumb.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r/upperThumb.r/upperThumb.r_end
+        weight: 1
+      - path: Armature/root/upperLeg.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l/toes.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l/toes.l/toes.l_end
+        weight: 1
+      - path: Armature/root/upperLeg.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r/toes.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r/toes.r/toes.r_end
+        weight: 1
+      - path: heme
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: heme_left
+      takeName: Armature|ArmatureAction.001
+      firstFrame: 90
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/torso
+        weight: 1
+      - path: Armature/root/torso/neck
+        weight: 1
+      - path: Armature/root/torso/neck/head
+        weight: 1
+      - path: Armature/root/torso/neck/head/head_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l/upperIndex.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l/upperIndex.l/upperIndex.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l/upperMiddleFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l/upperMiddleFinger.l/upperMiddleFinger.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l/upperPinky.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l/upperPinky.l/upperPinky.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l/upperRingFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l/upperRingFinger.l/upperRingFinger.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l/upperThumb.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l/upperThumb.l/upperThumb.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r/upperIndex.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r/upperIndex.r/upperIndex.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r/upperMiddleFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r/upperMiddleFinger.r/upperMiddleFinger.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r/upperPinky.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r/upperPinky.r/upperPinky.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r/upperRingFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r/upperRingFinger.r/upperRingFinger.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r/upperThumb.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r/upperThumb.r/upperThumb.r_end
+        weight: 1
+      - path: Armature/root/upperLeg.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l/toes.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l/toes.l/toes.l_end
+        weight: 1
+      - path: Armature/root/upperLeg.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r/toes.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r/toes.r/toes.r_end
+        weight: 1
+      - path: heme
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: heme_left_idle
+      takeName: Armature|ArmatureAction.001
+      firstFrame: 111
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/torso
+        weight: 1
+      - path: Armature/root/torso/neck
+        weight: 1
+      - path: Armature/root/torso/neck/head
+        weight: 1
+      - path: Armature/root/torso/neck/head/head_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l/upperIndex.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l/upperIndex.l/upperIndex.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l/upperMiddleFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l/upperMiddleFinger.l/upperMiddleFinger.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l/upperPinky.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l/upperPinky.l/upperPinky.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l/upperRingFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l/upperRingFinger.l/upperRingFinger.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l/upperThumb.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l/upperThumb.l/upperThumb.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r/upperIndex.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r/upperIndex.r/upperIndex.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r/upperMiddleFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r/upperMiddleFinger.r/upperMiddleFinger.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r/upperPinky.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r/upperPinky.r/upperPinky.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r/upperRingFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r/upperRingFinger.r/upperRingFinger.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r/upperThumb.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r/upperThumb.r/upperThumb.r_end
+        weight: 1
+      - path: Armature/root/upperLeg.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l/toes.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l/toes.l/toes.l_end
+        weight: 1
+      - path: Armature/root/upperLeg.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r/toes.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r/toes.r/toes.r_end
+        weight: 1
+      - path: heme
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: heme_left_to_top
+      takeName: Armature|ArmatureAction.001
+      firstFrame: 121
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/torso
+        weight: 1
+      - path: Armature/root/torso/neck
+        weight: 1
+      - path: Armature/root/torso/neck/head
+        weight: 1
+      - path: Armature/root/torso/neck/head/head_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l/upperIndex.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l/upperIndex.l/upperIndex.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l/upperMiddleFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l/upperMiddleFinger.l/upperMiddleFinger.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l/upperPinky.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l/upperPinky.l/upperPinky.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l/upperRingFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l/upperRingFinger.l/upperRingFinger.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l/upperThumb.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l/upperThumb.l/upperThumb.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r/upperIndex.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r/upperIndex.r/upperIndex.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r/upperMiddleFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r/upperMiddleFinger.r/upperMiddleFinger.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r/upperPinky.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r/upperPinky.r/upperPinky.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r/upperRingFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r/upperRingFinger.r/upperRingFinger.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r/upperThumb.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r/upperThumb.r/upperThumb.r_end
+        weight: 1
+      - path: Armature/root/upperLeg.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l/toes.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l/toes.l/toes.l_end
+        weight: 1
+      - path: Armature/root/upperLeg.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r/toes.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r/toes.r/toes.r_end
+        weight: 1
+      - path: heme
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: heme_down
+      takeName: Armature|ArmatureAction.001
+      firstFrame: 140
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/torso
+        weight: 1
+      - path: Armature/root/torso/neck
+        weight: 1
+      - path: Armature/root/torso/neck/head
+        weight: 1
+      - path: Armature/root/torso/neck/head/head_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l/upperIndex.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l/upperIndex.l/upperIndex.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l/upperMiddleFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l/upperMiddleFinger.l/upperMiddleFinger.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l/upperPinky.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l/upperPinky.l/upperPinky.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l/upperRingFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l/upperRingFinger.l/upperRingFinger.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l/upperThumb.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l/upperThumb.l/upperThumb.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r/upperIndex.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r/upperIndex.r/upperIndex.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r/upperMiddleFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r/upperMiddleFinger.r/upperMiddleFinger.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r/upperPinky.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r/upperPinky.r/upperPinky.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r/upperRingFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r/upperRingFinger.r/upperRingFinger.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r/upperThumb.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r/upperThumb.r/upperThumb.r_end
+        weight: 1
+      - path: Armature/root/upperLeg.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l/toes.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l/toes.l/toes.l_end
+        weight: 1
+      - path: Armature/root/upperLeg.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r/toes.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r/toes.r/toes.r_end
+        weight: 1
+      - path: heme
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: heme_up
+      takeName: Armature|ArmatureAction.001
+      firstFrame: 161
+      lastFrame: 185
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/torso
+        weight: 1
+      - path: Armature/root/torso/neck
+        weight: 1
+      - path: Armature/root/torso/neck/head
+        weight: 1
+      - path: Armature/root/torso/neck/head/head_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l/upperIndex.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l/upperIndex.l/upperIndex.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l/upperMiddleFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l/upperMiddleFinger.l/upperMiddleFinger.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l/upperPinky.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l/upperPinky.l/upperPinky.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l/upperRingFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l/upperRingFinger.l/upperRingFinger.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l/upperThumb.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l/upperThumb.l/upperThumb.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r/upperIndex.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r/upperIndex.r/upperIndex.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r/upperMiddleFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r/upperMiddleFinger.r/upperMiddleFinger.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r/upperPinky.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r/upperPinky.r/upperPinky.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r/upperRingFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r/upperRingFinger.r/upperRingFinger.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r/upperThumb.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r/upperThumb.r/upperThumb.r_end
+        weight: 1
+      - path: Armature/root/upperLeg.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l/toes.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l/toes.l/toes.l_end
+        weight: 1
+      - path: Armature/root/upperLeg.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r/toes.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r/toes.r/toes.r_end
+        weight: 1
+      - path: heme
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: heme_next_level
+      takeName: Armature|ArmatureAction.001
+      firstFrame: 190
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root
+        weight: 1
+      - path: Armature/root/torso
+        weight: 1
+      - path: Armature/root/torso/neck
+        weight: 1
+      - path: Armature/root/torso/neck/head
+        weight: 1
+      - path: Armature/root/torso/neck/head/head_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l/upperIndex.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerIndex.l/upperIndex.l/upperIndex.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l/upperMiddleFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerMiddleFinger.l/upperMiddleFinger.l/upperMiddleFinger.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l/upperPinky.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerPinky.l/upperPinky.l/upperPinky.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l/upperRingFinger.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerRingFinger.l/upperRingFinger.l/upperRingFinger.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l/upperThumb.l
+        weight: 1
+      - path: Armature/root/torso/upperArm.l/lowerArm.l/hand.l/lowerThumb.l/upperThumb.l/upperThumb.l_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r/upperIndex.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerIndex.r/upperIndex.r/upperIndex.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r/upperMiddleFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerMiddleFinger.r/upperMiddleFinger.r/upperMiddleFinger.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r/upperPinky.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerPinky.r/upperPinky.r/upperPinky.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r/upperRingFinger.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerRingFinger.r/upperRingFinger.r/upperRingFinger.r_end
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r/upperThumb.r
+        weight: 1
+      - path: Armature/root/torso/upperArm.r/lowerArm.r/hand.r/lowerThumb.r/upperThumb.r/upperThumb.r_end
+        weight: 1
+      - path: Armature/root/upperLeg.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l/toes.l
+        weight: 1
+      - path: Armature/root/upperLeg.l/lowerLeg.l/ankle.l/toes.l/toes.l_end
+        weight: 1
+      - path: Armature/root/upperLeg.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r/toes.r
+        weight: 1
+      - path: Armature/root/upperLeg.r/lowerLeg.r/ankle.r/toes.r/toes.r_end
+        weight: 1
+      - path: heme
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
